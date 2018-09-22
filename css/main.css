@@ -4,12 +4,19 @@ body {
 
 h1 {
 	color: #E64A19;
+	text-align: center;
 } 
 
 h2 {
 	color: #AFB42B;
+	text-align: center;
 }
 
 p {
 	color: #481380;
+}
+
+h3 {
+	color: #00796B;
+	text-align: center;
 }
